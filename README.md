@@ -1,4 +1,5 @@
-# Izanagi
+# MERN Eshop App
+
 A place to rent electronic products
 
 
